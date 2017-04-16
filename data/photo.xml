@@ -1,0 +1,57 @@
+<photo>
+    <event>
+        <in>100</in>
+        <out>1000</out>
+        <begin>1500</begin>
+        <end>3500</end>
+        <bright>0.5</bright>
+    </event>
+    <point>
+        <x>90.600105286</x>
+        <y>42.099998474</y>
+    </point>
+    <point>
+        <x>179.099945</x>
+        <y>62.000000</y>
+    </point>
+    <point>
+        <x>177.399841309</x>
+        <y>123.399902344</y>
+    </point>
+    <point>
+        <x>109.099945068</x>
+        <y>130.000000000</y>
+    </point>
+</photo>
+<photo>
+    <event>
+        <in>1000</in>
+        <out>100</out>
+        <begin>2500</begin>
+        <end>4500</end>
+        <bright>1.0</bright>
+    </event>
+    <event>
+        <in>10</in>
+        <out>1000</out>
+        <begin>4600</begin>
+        <end>6700</end>
+        <bright>0.3</bright>
+    </event>
+    <point>
+        <x>200.000000</x>
+        <y>67.000000</y>
+    </point>
+    <point>
+        <x>279.000000</x>
+        <y>51.000000</y>
+    </point>
+    <point>
+        <x>273.000000</x>
+        <y>167.000000</y>
+    </point>
+    <point>
+        <x>193.799988</x>
+        <y>140.899963</y>
+    </point>
+</photo>
